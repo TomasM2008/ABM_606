@@ -1,5 +1,5 @@
 <?php
-$conexion = new mysqli("localhost", "root", "", "proyecto_basico");
+$conexion = new mysqli("localhost", "root", "", "formulario_github");
 
 $personas = $conexion->query("SELECT * FROM personas");
 ?>

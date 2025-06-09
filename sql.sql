@@ -1,5 +1,5 @@
-CREATE DATABASE proyecto_basico;
-USE proyecto_basico;
+CREATE DATABASE formulario_github;
+USE formulario_github;
 
 CREATE TABLE personas (
     id INT AUTO_INCREMENT PRIMARY KEY,
